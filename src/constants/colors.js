@@ -1,0 +1,21 @@
+export default {
+  white: "#FFF",
+  defaultBlack: "#302d44",
+  error: "#c70606",
+  actionGreen: "#64c422",
+  actionGreenHover: "#20bc29",
+  actionBlue: "#0061f9",
+  actionBlueHover: "#0343ad",
+  brand: "#fc580a",
+  brandHover: "#e4510b",
+  grey50: "#f4f4f5",
+  grey100: "#eaeaea",
+  grey200: "#d6d5da",
+  grey300: "#c0c0c6",
+  grey400: "#acabb4",
+  grey500: "#6f7184",
+  grey700: "#6e6c7c",
+  grey800: "#595769",
+  grey900: "#434155",
+  blueGradient: "#01dfed"
+};
